@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <h1 class="text-stone-600 font-bold bg-cyan-100">hello november</h1>
+  <h1 class="text-stone-600 bg-cyan-100 font-holiday text-5xl">Countdown Calendar of a Wonderful Year</h1>
   <HelloWorld msg="Vite + Vue" />
 </template>
 
